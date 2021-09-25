@@ -9,10 +9,8 @@ Todos os filmes que forem buscados e visualizados a descrição, serão automati
 
 ## Como rodar
 
-# instale as dependencias
-$ npm install 
+- instale as dependencias: $ npm install 
 
-# inicie o projeto
-$ yarn start
+- inicie o projeto: $ yarn start
 
 - o front ira iniciar automaticamente ou acesse <http://localhost:3000>
