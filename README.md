@@ -9,6 +9,10 @@ Todos os filmes que forem buscados e visualizados a descrição, serão automati
 
 ## Como rodar
 
+- rode a api em backend pelo link: https://github.com/idsn90/smarkio-backend e mantena rodando.
+
+- inicie uma nova instancia com fontend
+
 - instale as dependencias: $ npm install 
 
 - inicie o projeto: $ yarn start
